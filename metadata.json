@@ -1,0 +1,5 @@
+{
+  "name": "DiceName AI",
+  "description": "A playful username generator where you roll dice for each letter, powered by Gemini to analyze your new chaotic identity.",
+  "requestFramePermissions": []
+}
